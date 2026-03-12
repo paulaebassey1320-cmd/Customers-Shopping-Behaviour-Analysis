@@ -8,7 +8,7 @@ This project analyzes customer shopping behavior to uncover patterns in purchasi
 -  [Dataset](#dataset)
 -  [Sales Overview](#sales-overview)
 -  [Product and Purchases Insight](#product-and-purchases-insight)
--  [Customers'Performance](#customers'-performance)
+-  [Customers Performance](#customers-performance)
 -  [Strategic Recommendations](#strategic-recommendations)
 -  [Conclusions](#conclusions)
 
@@ -235,7 +235,7 @@ Recommendation:
    
 ![PRODUCT](https://github.com/user-attachments/assets/c97da8a1-994a-4e48-a917-f3e885914579)
 
-# Customers' Performance 
+# Customers Performance 
 
 Total Customers: 3.9k
 
