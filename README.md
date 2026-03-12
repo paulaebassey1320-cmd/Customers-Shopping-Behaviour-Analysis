@@ -8,7 +8,7 @@ This project analyzes customer shopping behavior to uncover patterns in purchasi
 -  [Dataset](#dataset)
 -  [Sales Overview](#sales-overview)
 -  [Product and Purchases Insight](#product-and-purchases-insight)
--  [Customers' Performance](#customers'-performance)
+-  [Customers'Performance](#customers'-performance)
 -  [Strategic Recommendations](#strategic-recommendations)
 -  [Conclusions](#conclusions)
 
