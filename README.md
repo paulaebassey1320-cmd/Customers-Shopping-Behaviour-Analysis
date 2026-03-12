@@ -16,34 +16,62 @@ This project analyzes customer shopping behavior to uncover patterns in purchasi
 
 # Project Objectives
 - Analyze Customer Purchasing Behavior:
+  
     To understand how customers shop by examining purchase frequency, spending patterns, and buying trends.
+
 - Evaluate Product Performance:
+  
       To identify the best-performing product categories and top-selling items that contribute most to overall revenue.
+  
 - Measure Business Performance:
+
 To track key metrics such as total revenue, average revenue per transaction, total customers, and average customer spending
--  Understand Customer Demographics
+
+-  Understand Customer Demographics:
+  
       To analyze customer segments based on age group, gender, and location in order to identify the most valuable customer groups.
--  Identify Sales Trends and Patterns
+   
+-  Identify Sales Trends and Patterns:
+  
        To explore seasonal sales trends and understand how different periods of the year influence purchasing behavior.
--  Examine Payment Preferences
+   
+-  Examine Payment Preferences:
+
       To determine the most commonly used payment methods among customers.
--  Support Data-Driven Decision Making
+   
+-  Support Data-Driven Decision Making:
+  
      To provide clear insights that help businesses improve marketing strategies, product planning, and inventory management.
--  Improve Product and Inventory Strategy
+   
+-  Improve Product and Inventory Strategy:
+  
      To identify popular product attributes such as size and item type so businesses can optimize stock levels and meet customer demand.
+
+   
 
 # Dataset Overview
 Dataset contains information about customer demographics, purchasing patterns, product preferences, and engagement behavior. The dataset is designed to help analyze how different factors such as age, gender, product category, discounts, and subscription status influence customer spending and loyalty.
+
 The dataset includes 3,900 customer records with multiple attributes describing customer transactions and behaviors. Each record represents a purchase made by a customer and includes details about the product purchased, the amount spent, payment method, purchase frequency, and customer review ratings.
+
 The data provides valuable insights into customer segmentation, revenue drivers, shopping habits, and engagement levels, making it suitable for building a business intelligence dashboard that supports data-driven decision making.
+
 Key areas of analysis supported by this dataset include:
+
 •	Customer demographics and segmentation
+
 •	Sales and revenue performance
+
 •	Product category performance
+
 •	Customer engagement and loyalty
+
 •	Discount and promotion impact
+
 •	Payment method preferences
+
 •	Customer satisfaction through review ratings
+
 
 Overall, this dataset enables analysts to explore patterns in consumer behavior, identify opportunities for improving customer retention, and support strategic decisions in marketing, sales, and product management.
 
@@ -56,10 +84,12 @@ Overall, this dataset enables analysts to explore patterns in consumer behavior,
 
 [shopping_behavior_updated (1).csv](https://github.com/user-attachments/files/25936514/shopping_behavior_updated.1.csv)
 
-# Sales Overview (Page 1)
+# Sales Overview 
+
 - Key KPI insight
   
 REVENUE PERFORMANCE
+
 . Total Revenue: $ 233,081
 
 . Average Revenue per customer: $ 59.76
@@ -79,6 +109,7 @@ Insights: Customers who purchase less frequently actually generate slightly more
 Recommendations: Introduce loyalty and subscription incentives to increase purchase frequency without reducing basket value.
 
 - Revenue by Category
+  
 1.	 Clothing: $104k (highest)
 2.	Accessories: $74k
 3.	Footwear: $36k
@@ -86,7 +117,8 @@ Recommendations: Introduce loyalty and subscription incentives to increase purch
    
 Insights: Clothing contribute nearly 45% of total revenue, making it the core revenue driver.
 
-Business implications: 
+Business implications:
+
 1.	Expand clothing inventory and promotions.
 2.	Bundle low performing categories (outerwear) with clothing.
 3.	Cross sell accessories with clothing items.
