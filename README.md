@@ -13,22 +13,22 @@ This project analyzes customer shopping behavior to uncover patterns in purchasi
   # Shoppping Behaviour And Product Ranking Analysis
 
 # Project Objectives
-- Analyze Customer Purchasing Behavior
-To understand how customers shop by examining purchase frequency, spending patterns, and buying trends.
-- Evaluate Product Performance
-To identify the best-performing product categories and top-selling items that contribute most to overall revenue.
-- Measure Business Performance
+- Analyze Customer Purchasing Behavior:
+    To understand how customers shop by examining purchase frequency, spending patterns, and buying trends.
+- Evaluate Product Performance:
+      To identify the best-performing product categories and top-selling items that contribute most to overall revenue.
+- Measure Business Performance:
 To track key metrics such as total revenue, average revenue per transaction, total customers, and average customer spending
 -  Understand Customer Demographics
-To analyze customer segments based on age group, gender, and location in order to identify the most valuable customer groups.
+      To analyze customer segments based on age group, gender, and location in order to identify the most valuable customer groups.
 -  Identify Sales Trends and Patterns
-To explore seasonal sales trends and understand how different periods of the year influence purchasing behavior.
+       To explore seasonal sales trends and understand how different periods of the year influence purchasing behavior.
 -  Examine Payment Preferences
-To determine the most commonly used payment methods among customers.
+      To determine the most commonly used payment methods among customers.
 -  Support Data-Driven Decision Making
-To provide clear insights that help businesses improve marketing strategies, product planning, and inventory management.
+     To provide clear insights that help businesses improve marketing strategies, product planning, and inventory management.
 -  Improve Product and Inventory Strategy
-To identify popular product attributes such as size and item type so businesses can optimize stock levels and meet customer demand.
+     To identify popular product attributes such as size and item type so businesses can optimize stock levels and meet customer demand.
 
 # Dataset Overview
 Dataset contains information about customer demographics, purchasing patterns, product preferences, and engagement behavior. The dataset is designed to help analyze how different factors such as age, gender, product category, discounts, and subscription status influence customer spending and loyalty.
@@ -50,7 +50,8 @@ Overall, this dataset enables analysts to explore patterns in consumer behavior,
 3.	Checked for blank columns and rows, duplicate or errors (none identified).
 
 # Dataset
-[Uploading shopping_behavior_updated (1).csv…]()
+
+[shopping_behavior_updated (1).csv](https://github.com/user-attachments/files/25936514/shopping_behavior_updated.1.csv)
 
 # Sales Overview (Page 1)
 - Key KPI insight
